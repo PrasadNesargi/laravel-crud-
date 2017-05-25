@@ -1,0 +1,761 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"item",
+				"itemCRUD"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 2751,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/app.blade.php",
+			"settings":
+			{
+				"buffer_size": 3730,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 1187,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/UserController.php",
+			"settings":
+			{
+				"buffer_size": 1946,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 586,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/users/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 1313,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2014_10_12_100000_create_password_resets_table.php",
+			"settings":
+			{
+				"buffer_size": 683,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2014_10_12_000000_create_users_table.php",
+			"settings":
+			{
+				"buffer_size": 834,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Providers/AppServiceProvider.php",
+			"settings":
+			{
+				"buffer_size": 473,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/auth/register.blade.php",
+			"settings":
+			{
+				"buffer_size": 3528,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/users/create.blade.php",
+			"settings":
+			{
+				"buffer_size": 3881,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/HomeController.php",
+			"settings":
+			{
+				"buffer_size": 452,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/home.blade.php",
+			"settings":
+			{
+				"buffer_size": 411,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/redwhy",
+		"/var/www/html/redwhy/app",
+		"/var/www/html/redwhy/app/Http",
+		"/var/www/html/redwhy/app/Http/Controllers",
+		"/var/www/html/redwhy/database",
+		"/var/www/html/redwhy/database/migrations",
+		"/var/www/html/redwhy/public",
+		"/var/www/html/redwhy/public/js",
+		"/var/www/html/redwhy/resources",
+		"/var/www/html/redwhy/resources/views",
+		"/var/www/html/redwhy/resources/views/auth",
+		"/var/www/html/redwhy/resources/views/users",
+		"/var/www/html/redwhy/routes"
+	],
+	"file_history":
+	[
+		"/var/www/html/redwhy/resources/views/users/create.blade.php",
+		"/var/www/html/redwhy/resources/views/users/edit.blade.php",
+		"/var/www/html/redwhy/resources/views/users/show.blade.php",
+		"/var/www/html/redwhy/resources/views/users/index.blade.php",
+		"/var/www/html/redwhy/config/app.php",
+		"/var/www/html/redwhy/.env",
+		"/var/www/html/redwhy/resources/views/home.blade.php",
+		"/var/www/html/redwhy/public/js/jquery-3.2.1.min.js",
+		"/var/www/html/redwhy/vendor/laravel/framework/src/Illuminate/Mail/resources/views/html/layout.blade.php",
+		"/var/www/html/redwhy/resources/views/welcome.blade.php",
+		"/var/www/html/redwhy/resources/views/layouts/app.blade.php",
+		"/var/www/html/users/resources/views/layouts/create.blade.php",
+		"/var/www/html/crud/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/var/www/html/crud/app/Providers/AppServiceProvider.php",
+		"/var/www/html/crud/resources/views/ItemCRUD/index.blade.php",
+		"/var/www/html/crud/resources/views/auth/login.blade.php",
+		"/var/www/html/crud/vendor/symfony/routing/RouteCollection.php",
+		"/var/www/html/crud/app/item.php",
+		"/var/www/html/crud/vendor/symfony/routing/Route.php",
+		"/var/www/html/crud/routes/web.php",
+		"/var/www/html/crud/resources/views/ItemCRUD/create.blade.php",
+		"/var/www/html/crud/resources/views/auth/register.blade.php",
+		"/var/www/html/crud/resources/views/ItemCRUD/show.blade.php",
+		"/var/www/html/crud/resources/views/ItemCRUD/edit.blade.php",
+		"/var/www/html/crud/database/migrations/2017_05_10_080507_create_items_table.php",
+		"/var/www/html/crud/vendor/laravel/framework/src/Illuminate/Database/Migrations/Migration.php",
+		"/var/www/html/crud/.env",
+		"/var/www/html/crud/app/Http/Controllers/ItemCRUDController.php",
+		"/var/www/html/crud/resources/views/layouts/default.blade.php",
+		"/var/www/html/crud/database/migrations/2017_05_10_055133_create_items_table.php",
+		"/var/www/html/redwhy/webpack.mix.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user",
+			"home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"users"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/welcome.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1377.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/layouts/app.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2714,
+								2714
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 918.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1175,
+								1175
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Http/Controllers/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								722,
+								722
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 408.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								244,
+								244
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/users/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								716,
+								716
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "database/migrations/2014_10_12_100000_create_password_resets_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "database/migrations/2014_10_12_000000_create_users_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/Providers/AppServiceProvider.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "resources/views/auth/register.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2644,
+								2644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 459.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "resources/views/users/create.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2657,
+								2657
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 486.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/Http/Controllers/HomeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								443
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "resources/views/home.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "redwhy.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"configapp",
+				"config/app.php"
+			],
+			[
+				"layout",
+				"vendor/laravel/framework/src/Illuminate/Mail/resources/views/html/layout.blade.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"con",
+				"app/Http/Controllers/Controller.php"
+			],
+			[
+				"route",
+				"vendor/symfony/routing/RouteCollection.php"
+			],
+			[
+				"mig",
+				"vendor/laravel/framework/src/Illuminate/Database/Migrations/Migration.php"
+			],
+			[
+				"appser",
+				"app/Providers/AppServiceProvider.php"
+			],
+			[
+				"routsweb",
+				"routes/web.php"
+			],
+			[
+				"routesweb",
+				"routes/web.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
